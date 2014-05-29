@@ -1,4 +1,6 @@
 learner
 =======
 
-&copy; iamchaudhari (D. Chaudhari)
+
+---
+_&copy; iamChaudhari (D. Chaudhari)_
